@@ -12,7 +12,7 @@ const Page = () => {
 
 <div className="description">
         <h1>Hello, I'm Haroon Afridi!</h1>
-        <p>I’m a Frontend Developer with a passion for design and coding,</p>
+        <p>I’m a Frontend Developer with a passion for design and coding.further</p>
         
       </div>
       
